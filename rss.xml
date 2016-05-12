@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nightschool]]></title>
-        <description><![CDATA[Nightschool]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Portfolio of Benjamin D. Smith]]></title>
+        <description><![CDATA[The Portfolio of Benjamin D. Smith]]></description>
+        <link>https://thegrid.ai/nightschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 04:43:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 04:49:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nightschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is an example post. I'm entering some copy so that I can see how it populates. I don't see anywhere to add an image. I imagine I will learn more as this progresses, seeing as how I am just beginning, and this is only a beta test. </p>]]></description>
-            <link>undefinedthis-is-an-example-post-im-entering-some-copy-so-that-i-ca/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3adb3f6-a8d0-4752-a82d-883ddf202e84.png">]]></description>
+            <link>https://thegrid.ai/nightschool/this-is-an-example-post-im-entering-some-copy-so-that-i-ca/index.html</link>
             <guid isPermaLink="false">1f0c8483-42ae-4be2-b9cb-bf7730afba66</guid>
-            <pubDate>Thu, 12 May 2016 04:43:31 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 04:48:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
